@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: "Poppins";
+    color: #13181D;
+    background-color: #dae1e9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
